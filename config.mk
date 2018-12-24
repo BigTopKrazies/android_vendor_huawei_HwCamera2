@@ -15,7 +15,6 @@
 VENDOR_PATH := vendor/huawei/HwCamera2
 
 PRODUCT_COPY_FILES += \
-    $(VENDOR_PATH)/system/cameraplugins/apk/foodmode.zip:system/cameraplugins/apk/foodmode.apk \
     $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/CN_pic_1.png:system/cameraplugins/mode/documentrecognition/CN_pic_1.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/CN_pic_1_dm.png:system/cameraplugins/mode/documentrecognition/CN_pic_1_dm.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/CN_pic_2.png:system/cameraplugins/mode/documentrecognition/CN_pic_2.png \
